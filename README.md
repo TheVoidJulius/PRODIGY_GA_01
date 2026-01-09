@@ -22,10 +22,17 @@ To train a transformer-based language model (GPT-2) that can generate human-like
 
 ## 📁 Project Structure
 Prodigy_Infotech_Task-01/
+
 ├── data/
+
 │ └── data.txt
+
 ├── src/
+
 │ ├── train.py
+
 │ └── generate.py
+
 ├── requirements.txt
+
 └── README.md
