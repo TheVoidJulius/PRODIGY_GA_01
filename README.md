@@ -36,3 +36,30 @@ Prodigy_Infotech_Task-01/
 ├── requirements.txt
 
 └── README.md
+
+
+
+---
+
+## ⚙️ How to Run the Project
+
+### 1️⃣ Install dependencies:
+>>> pip install -r requirements.txt
+
+### 2️⃣ TRAIN THE GPT-2 MODEL:
+run the below command in your terminal ->
+python src/train.py
+
+### 3️⃣ GENERATE TEXT:
+run the below command in your terminal ->
+python src/generate.py
+
+### 🧪 Sample Output:
+
+>>> Artificial Intelligence is a good example of a topic that is ripe for discussion
+and highlights the importance of modern AI systems.
+
+
+|--- Thank You ---|
+
+
