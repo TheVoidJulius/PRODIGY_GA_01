@@ -1,1 +1,5 @@
+Artificial Intelligence is transforming industries.
+Machine learning enables computers to learn from data.
+Deep learning uses neural networks.
+GPT models generate human-like text.
 
